@@ -66,7 +66,7 @@ Received over Bluetooth: Hello from Server
 
 ## Notes
 
-- The client will attempt to reconnect to the server if the connection is lost.
+- The client will not attempt to reconnect to the server if the connection is lost.
 - Ensure that the server is powered on before the client attempts to connect.
 - You can modify the device names (`ESP32_server` and `ESP32_client`) in the code as needed.
 
