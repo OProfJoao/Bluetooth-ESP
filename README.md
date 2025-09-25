@@ -48,17 +48,21 @@ This repository contains two example programs for bidirectional communication be
 
 ### Server
 
-```cpp Bluetooth Device is Ready to Pair 
+
+```cpp
+Bluetooth Device is Ready to Pair 
 Received over Bluetooth: Hello from Client 
-Sent over Bluetooth: Hello from Server```
+Sent over Bluetooth: Hello from Server
+```
+
 
 ### Client
-
-```cpp Bluetooth Device is Ready to Pair 
+```cpp
+Bluetooth Device is Ready to Pair 
 Connected to ESP32_server 
 Sent over Bluetooth: Hello from Client 
-Received over Bluetooth: Hello from Server```
-
+Received over Bluetooth: Hello from Server
+```
 
 ## Notes
 
